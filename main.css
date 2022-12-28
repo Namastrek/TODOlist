@@ -1,0 +1,18 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color:  #d9d9d9;
+    background-image: linear-gradient(315deg, #d9d9d9 0%, #f6f2f2 74%);
+}
+
+main {
+    background-color: aqua;
+    width: 50%;
+    margin: auto;
+    border: black 1px solid;
+    display: grid;
+}
